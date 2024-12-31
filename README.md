@@ -4,17 +4,11 @@
   <img src="./img/calc_screen.png" alt="Project Screenshot">
 </div>
 <br/>
-
-<!-- Eine kurze Einführung, die das Projekt vorstellt. Diese sollte die Entstehungsgeschichte, die Motivation hinter dem Projekt und die im Projekt angewandten Fähigkeiten oder Technologien hervorheben. Ziel ist es, das Interesse der Leser zu wecken und sie neugierig auf das Projekt zu machen. -->
-<p>Back to Nature is a project born out of my passion for web development and a testament to my growth during my 6-month Web Development Bootcamp. Developed on day 20 of my Bootcamp, this project showcases the skills and knowledge I've acquired so far. <br/>
-I'm incredibly proud of this project, which highlights my ability to create responsive designs using media queries. Dive in and explore the beauty of "Back to Nature" – a reflection of my journey and dedication to becoming a great web developer. </p>
+<p>This calculator project is a product of day 32 of the 6-month web development boot camp I am taking and, simultaneously, day 7 of the introduction to Typescript. 
+<br/>
+I am proud of my ability to find solutions and having programmed this calculator as a result. I hope you enjoy the design as much as I do.🌈</p>
 
 ## Table of Contents 📑
-
-<!-- Inhaltsverzeichnis -->
-<!-- Ein Inhaltsverzeichnis, das den Lesern hilft, sich schnell in der README-Datei zu orientieren und die gewünschten Informationen zu finden. -->
-
-<!-- basic FRONTEND -->
 
 - [About](#about)
 - [Tech Stack](#tech-stack)
