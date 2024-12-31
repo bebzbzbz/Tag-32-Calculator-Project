@@ -1,0 +1,98 @@
+@font-face {
+    font-family: "Space Mono";
+    src: url(./fonts/SpaceMono-Regular.ttf);
+}
+
+:root {
+    --bg: #ffe0e0;
+    --calc-bg: #ffe0e0;
+    --numbers: rgb(45, 45, 255);
+    --operators: rgb(251, 135, 185);
+    --solve: rgb(255, 196, 0);
+    --clear: rgb(250, 85, 56);
+    --border: rgb(45, 45, 255);
+    --result: rgb(45, 45, 255);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: var(--bg);
+}
+
+.calculator {
+    width: 350px;
+    height: 600px;
+    background-color: rgb(169, 183, 196);
+    padding: 3.5rem 2.5rem;
+    background-color: var(--calc-bg);
+    border: 4px solid var(--border);
+    box-shadow: -15px 15px 0 2px var(--border);
+
+    #operation-div, input {
+        font-family: "Space Mono";
+    }
+
+    #operation-div {
+        height: 15%;
+        padding: 1rem 1.5rem;
+        margin-bottom: 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        color: var(--result);
+        font-size: 3.5rem;
+    }
+    
+    .btn-area {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 1.2rem;
+        height: 85%;
+        padding-top: 3.5rem;
+    
+        input {
+            height: 6.5rem;
+            width: 100%;
+            border: none;
+            cursor: pointer;
+            border-radius: 40px;
+            transition: transform .3s ease;
+            color: #fff;
+            font-size: 2.7rem;
+
+            &:focus {
+                transform: scale(.9);
+            }
+        }
+    
+        input[value="0"] {
+            grid-column: 1 / 3;
+        }
+
+        .numbers-bg {
+            background-color: var(--numbers);
+        }
+        .solve-bg {
+            background-color: var(--solve);
+        }
+        .operators-bg {
+            background-color: var(--operators);
+        }
+        .clear-bg {
+            background-color: var(--clear);
+        }
+    }
+}
