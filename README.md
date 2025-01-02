@@ -22,7 +22,7 @@ I am proud of my ability to find solutions and having programmed this calculator
 
 ## Features
 <ul>
-  <li>Functions:
+  <li><b>Functions:</b>
   <ul>
     <li>Addition, subtraction, division, multiplication, modulo</li>
     <li>Clear all, delete last input</li>
@@ -30,17 +30,15 @@ I am proud of my ability to find solutions and having programmed this calculator
     <li>Display last operation above result</li>
   </ul>
   </li>
-  <li>Responsive design:
+  <li><b>Responsive design:</b>
   <ul>
     <li>Optimised for different screens</li>
   </ul>
   </li>
 </ul>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%">
-    <img style="width: 49%; height: 100%; object-fit: cover" src="./img/calc_smartphone.png">
-    <img style="width: 49%; height: 100%; object-fit: cover"  src="./img/calc_tablet.png">
-</div>
+<img src="./img/calc_smartphone.png" alt="Project Screenshot Smartphone">
+<img src="./img/calc_tablet.png" alt="Project Screenshot Tablet">
 
 ## Tech Stack
 
