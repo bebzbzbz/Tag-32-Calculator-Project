@@ -38,8 +38,8 @@ I am proud of my ability to find solutions and having programmed this calculator
 </ul>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%">
-    <img style="width: 49%; height: auto; object-fit: cover" src="./img/calc_smartphone.png">
-    <img style="width: 49%; height: auto; object-fit: cover"  src="./img/calc_tablet.png">
+    <img style="width: 49%; height: 100%; object-fit: cover" src="./img/calc_smartphone.png">
+    <img style="width: 49%; height: 100%; object-fit: cover"  src="./img/calc_tablet.png">
 </div>
 
 ## Tech Stack
