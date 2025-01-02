@@ -11,6 +11,7 @@ I am proud of my ability to find solutions and having programmed this calculator
 ## Table of Contents 📑
 
 - [About](#about)
+- [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Design](#design)
 
