@@ -29,7 +29,7 @@ I am proud of my ability to find solutions and having programmed this calculator
 <ul>
   <li>Functions:
   <ul>
-    <li>Addition, subtraction, division, multiplication, modulo<li>
+    <li>Addition, subtraction, division, multiplication, modulo</li>
     <li>Clear all, delete last input</li>
     <li>Solve operation and continue calculating with result</li>
     <li>Display last operation above result</li>
@@ -37,7 +37,7 @@ I am proud of my ability to find solutions and having programmed this calculator
   </li>
   <li>Responsive design:
   <ul>
-    <li>Optimised for different screens<li>
+    <li>Optimised for different screens</li>
   </ul>
   </li>
 </ul>
