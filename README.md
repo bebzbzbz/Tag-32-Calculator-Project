@@ -4,9 +4,7 @@
   <img src="./img/calc_screen.png" alt="Project Screenshot">
 </div>
 <br/>
-<p>This calculator project is a product of day 32 of the 6-month web development boot camp I am taking and, simultaneously, day 7 of the introduction to Typescript. 
-<br/>
-I am proud of my ability to find solutions and having programmed this calculator as a result. 🌈</p>
+<p>This calculator project is a product of day 32 of the 6-month web development boot camp I am taking and, simultaneously, day 7 of the introduction to Typescript. 🌈</p>
 
 ## Table of Contents 📑
 
